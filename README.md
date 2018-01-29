@@ -1,5 +1,6 @@
 # VideoStore-MVC-project-
-VideoStore Just a play project for a videostore project 
+VideoStore Just a play project for a videostore project copy and paste on sql server to run 
+
 USE [master]
 GO
 
